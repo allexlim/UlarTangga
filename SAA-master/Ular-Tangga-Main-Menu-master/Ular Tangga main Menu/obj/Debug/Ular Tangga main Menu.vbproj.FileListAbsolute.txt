@@ -1,0 +1,39 @@
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\bin\Debug\Ular Tangga main Menu.exe.config
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\bin\Debug\Ular Tangga main Menu.exe
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\bin\Debug\Ular Tangga main Menu.pdb
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\bin\Debug\Ular Tangga main Menu.xml
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\obj\Debug\Ular_Tangga_main_Menu.Resources.resources
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.exe
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.xml
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.pdb
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\obj\Debug\Ular_Tangga_main_Menu.Main_Menu.resources
+C:\Users\User\source\repos\Ular Tangga main Menu\Ular Tangga main Menu\obj\Debug\Ular_Tangga_main_Menu.PN_Menu.resources
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\bin\Debug\Ular Tangga main Menu.exe.config
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\bin\Debug\Ular Tangga main Menu.exe
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\bin\Debug\Ular Tangga main Menu.pdb
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\bin\Debug\Ular Tangga main Menu.xml
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.vbprojAssemblyReference.cache
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular_Tangga_main_Menu.Main_Menu.resources
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular_Tangga_main_Menu.Resources.resources
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular_Tangga_main_Menu.PN_Menu.resources
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.vbproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.exe
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.xml
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.pdb
+C:\Users\ACER\Downloads\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular_Tangga_main_Menu.FormPlay.resources
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\bin\Debug\Ular Tangga main Menu.exe.config
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\bin\Debug\Ular Tangga main Menu.exe
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\bin\Debug\Ular Tangga main Menu.pdb
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\bin\Debug\Ular Tangga main Menu.xml
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.vbprojAssemblyReference.cache
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular_Tangga_main_Menu.Main_Menu.resources
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular_Tangga_main_Menu.FormPlay.resources
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular_Tangga_main_Menu.Resources.resources
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular_Tangga_main_Menu.PN_Menu.resources
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.vbproj.GenerateResource.cache
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.exe
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.xml
+E:\University\AP\SAA\SAA-master\Ular-Tangga-Main-Menu-master\Ular Tangga main Menu\obj\Debug\Ular Tangga main Menu.pdb
